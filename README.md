@@ -3,3 +3,8 @@ Hey, so you moved on to a shiny new distro? Wanna know how the command line work
 
 # Extra Info ℹ
 As my knowledge of Linux expands, I will make sure to keep this repo updated, so you won't miss anything. Linux has many capabilities, and the command line is just the beginning. Doing tasks with the command line makes things easier and much more efficient. But learning it takes time and patience. I am currently using Linux Mint, which is a Debian based distro, so some commands here won't work for other distros such as: Arch Linux (Example: apt-get is for Debain, and pacman is for Arch). Good Luck!
+
+# To Begin...
+- You need to have a working Linux Distro (Debain is recommended, Linux Mint or Ubuntu).
+- Very little programming knowledge, like: Knowing what a variable is, knowing what arguments do, etc.
+- Superuser privileges (The ability to use 'sudo', aka being admin).
