@@ -14,7 +14,7 @@ sudo su -
 3. **~** is the shortcut for the home directory (Example: /home/spyder). You can type: "~" to see your home folder!
 4. **"."** is the **current working directory**, and **".."** is the **working directory's parent directory**. We will get to see how we can use these later on.
 5. It is possible to include multiple commands on one line. **(Example: command1; command2; command3)**.
-6. **/home** contains all users' folders. Which holds things like: Config files, Documents, Pictures, etc. It is equivalent to **C:/Users** in Windows.
+6. **/home** contains all users' folders. Which holds things like: Config files, Documents, Pictures, etc. It is equivalent to **C:\Users** in Windows.
 
 # Keyboard Shortcuts ⌨
 - Opening a Terminal Window: **Ctrl + Alt + T**.
