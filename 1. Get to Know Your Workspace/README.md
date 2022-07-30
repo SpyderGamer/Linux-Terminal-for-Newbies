@@ -7,7 +7,10 @@ This is the shell prompt waiting for an input.
 
 # Linux Things you Have to Know 🐧️
 1. So there is this concept in Linux that "Everything is a file" Which is true, because if you see a directory such as /usr/bin, all the commands there are stored as files.
-2. A dollar sign **($)** indicates that you are using **normal user privileges** and a hashtag **(#)** shows that you are using **root privileges**. Root is like being Admin in Windows.
+2. A dollar sign **($)** indicates that you are using **normal user privileges** and a hashtag **(#)** shows that you are using **root privileges**. Root is like being Admin in Windows. To login as root, use this command:
+```
+sudo su -
+```
 3. **~** is the shortcut for the home directory (Example: /home/spyder). You can type: "~" to see your home folder!
 4. **"."** is the **current working directory**, and **".."** is the **working directory's parent directory**. We will get to see how we can use these later on.
 5. It is possible to include multiple commands on one line. **(Example: command1; command2; command3)**.
