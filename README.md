@@ -8,3 +8,5 @@ As my knowledge of Linux expands, I will make sure to keep this repo updated, so
 - You need to have a working Linux Distro (Debain is recommended, Linux Mint or Ubuntu).
 - Very little programming knowledge, like: Knowing what a variable is, knowing what arguments do, etc.
 - Superuser privileges (The ability to use 'sudo', aka being admin).
+
+![Cowsay Terminal](https://user-images.githubusercontent.com/85440857/181916453-18a15e76-b207-4195-9252-537f81466988.png)
