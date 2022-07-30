@@ -22,6 +22,7 @@ sudo su -
 - Returning Back to the Graphical Desktop: **Ctrl + Alt + F7**.
 
 # Example 💻️
+Locating your home directory:
 ```
 spyder@linuxMint:~$ ~
 bash: /home/spyder: Is a directory
