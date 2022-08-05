@@ -41,6 +41,7 @@ hamza@HM0PC:~$ apropos admin
 arptables-nft (8)    - ARP table administration (nft-based)
 ebtables-nft (8)     - Ethernet bridge frame table administration (nft-based)
 gpasswd (1)          - administer /etc/group and /etc/gshadow
+...
 ```
 
 ## whatis
