@@ -28,7 +28,7 @@ hamza@HM0PC:~$ neofetch
             '-MMMMMMMMMMMMM-'              Memory: 1755MiB / 15811MiB 
                ``-:::::-``
 ```
-You can also use "neofetch --ascii_distro" to change the ASCII image to another distro (Example: neofetch --ascii_distro Arch).
+You can also use `neofetch --ascii_distro` to change the ASCII image to another distro (Example: `neofetch --ascii_distro Arch`).
 
 ## id
 Tells you all about you, including the groups you are in.
