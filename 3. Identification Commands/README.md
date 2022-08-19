@@ -77,3 +77,28 @@ Tells you the command's type. There are 4 types of commands: **Executable Progra
 hamza@HM0PC:~$ type ls
 ls is aliased to `ls --color=auto'
 ```
+
+## printenv
+Displays the system's environment variables when no arguments are given.
+```
+hamza@HM0PC:~$ printenv
+SHELL=/bin/bash
+SESSION_MANAGER=local/HM0PC:@/tmp/.ICE-unix/1088,unix/HM0PC:/tmp/.ICE-unix/1088
+QT_ACCESSIBILITY=1
+COLORTERM=truecolor
+XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+...
+```
+You can see a specific variable by providing an argument `printenv USER`.
+
+## set
+When used without any arguments, the command will display both the shell and environment variables and any defined shell functions. 
+```
+hamza@HM0PC:~$ set
+BASH=/usr/bin/bash
+BASHOPTS=checkwinsize:cmdhist:complete_fullquote:expand_aliases:extglob:extquote:force_fignore:globasciiranges:histappend:interactive_comments:progcomp:promptvars:sourcepath
+BASH_ALIASES=()
+...
+```
+You can view a single variable by using this example: `echo $HOME`.
