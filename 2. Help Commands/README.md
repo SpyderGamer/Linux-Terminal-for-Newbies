@@ -1,5 +1,5 @@
 # Help Commands 📚
-You can use help commands to get information about a command or its usage. There are many ways to do so.
+You can use help commands to get information about a command or its usage. There are many ways to do so. I strongly recommend you check out the help section of each command you will learn to see how it is used and what options, arguments and parameters are available for it.
 
 ## -h or --help
 This gives you help about a command's **USAGE** which is different from the `help []` command.
