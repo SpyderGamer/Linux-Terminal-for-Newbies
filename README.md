@@ -20,3 +20,5 @@ Feel free to contribute to these notes, open issues, or create pull requests! Yo
 - https://www.reddit.com/r/linuxmasterrace/
 - https://www.reddit.com/r/linuxmemes/
 - https://www.reddit.com/r/unixporn/ (It's not what you think lol)
+
+Made with ♥ by Spyder.
