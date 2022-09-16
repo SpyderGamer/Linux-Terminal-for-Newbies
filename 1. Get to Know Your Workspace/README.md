@@ -13,8 +13,9 @@ hamza@HM0PC:~$ sudo su -
 ```
 3. **~** is the shortcut for the home directory (Example: /home/hamza). You can type: "~" to see your home folder!
 4. **"."** is the **current working directory**, and **".."** is the **working directory's parent directory**. We will get to see how we can use these later on.
-5. It is possible to include multiple commands on one line. **(Example: command1; command2; command3)**.
-6. **/home** contains all users' folders. Which holds things like: Config files, Documents, Pictures, etc. It is equivalent to **C:\Users** in Windows.
+5. It is possible to include multiple commands on one line. **(Example: `command1; command2; command3`)**.
+6. It is possible to integrate a command's output as a parameter **(Example: `cat $(which sudo)`)**. Here, the output command of `which sudo` is is the parameter of `cat`. We are basically running `cat /usr/bin/sudo`.
+7. **/home** contains all users' folders. Which holds things like: Config files, Documents, Pictures, etc. It is equivalent to **C:\Users** in Windows.
 
 # Keyboard Shortcuts ⌨
 - Opening a Terminal Window: **Ctrl + Alt + T**.
