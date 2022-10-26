@@ -19,7 +19,7 @@ hamza@HM0PC:~$ sudo su -
 
 # Keyboard Shortcuts ⌨
 - Opening a Terminal Window: **Ctrl + Alt + T**.
-- Switching to TTY Mode (Which is a full Command Line Interface): **Ctrl + Alt + F1** to **Ctrl + Alt + F6**.
+- Switching to TTY Mode (Which is a Full Command Line Interface with No Desktop Environment): **Ctrl + Alt + F1** to **Ctrl + Alt + F6**.
 - Returning Back to the Graphical Desktop: **Ctrl + Alt + F7**.
 
 # Example 💻️
